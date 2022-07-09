@@ -107,8 +107,8 @@ h2{
   display: block;
   margin: 0 auto;
   margin-top: 20px;
-  width: 150px;
-  height: 175px;
+  width: 80%;
+  height: 40%;
   border: 7px solid #fff;
   object-fit: cover;
   box-shadow: 1px 1px 20px px rgba(128, 116, 89, 0.9);
