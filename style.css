@@ -103,12 +103,12 @@ h2{
   top: 0px;
   left: 0px;
   }
-.avatar-round{
+.avatar{
   display: block;
   margin: 0 auto;
   margin-top: 20px;
-  width: 80%;
-  height: 35%;
+  width: 150px;
+  height: 175px;
   border: 7px solid #fff;
   object-fit: cover;
   box-shadow: 1px 1px 20px px rgba(128, 116, 89, 0.9);
@@ -117,6 +117,7 @@ h2{
 .link_box {
   display: grid;
   text-align: center;
+  line-height: 2;
   margin: 30px 0 30px 0;
     }
 a{
